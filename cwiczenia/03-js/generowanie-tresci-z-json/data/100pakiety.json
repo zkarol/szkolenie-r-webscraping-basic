@@ -1,0 +1,502 @@
+[
+   {
+      "date":"2017-09-16",
+      "name":"crayon",
+      "title":"Colored Terminal Output"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"DES",
+      "title":"Discrete Event Simulation"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"drat",
+      "title":"'Drat' R Archive Template"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"dynamichazard",
+      "title":"Dynamic Hazard Models using State Space Models"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"EthSEQ",
+      "title":"Ethnicity Annotation from Whole Exome Sequencing Data"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"forestplot",
+      "title":"Advanced Forest Plot Using 'grid' Graphics"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"furniture",
+      "title":"Furniture for Quantitative Scientists"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"googleComputeEngineR",
+      "title":"R Interface with Google Compute Engine"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"lambda.r",
+      "title":"Modeling Data with Functional Programming"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"officer",
+      "title":"Manipulation of Microsoft Word and PowerPoint Documents"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"pinp",
+      "title":"'pinp' is not 'PNAS'"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"pixiedust",
+      "title":"Tables so Beautifully Fine-Tuned You Will Believe It's Magic"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"PKI",
+      "title":"Public Key Infrastucture for R Based on the X.509 Standard"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"QNB",
+      "title":"Differential RNA Methylation Analysis for Count-Based\nSmall-Sample Sequencing Data with a Quad-Negative Binomial\nModel"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"RDS",
+      "title":"Respondent-Driven Sampling"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"rmetasim",
+      "title":"An Individual-Based Population Genetic Simulation Environment"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"scorecard",
+      "title":"Credit Risk Scorecard"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"Sim.DiffProc",
+      "title":"Simulation of Diffusion Processes"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"sinew",
+      "title":"Create 'roxygen2' Skeleton with Information from Function Script"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"sjstats",
+      "title":"Collection of Convenient Functions for Common Statistical\nComputations"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"SphericalCubature",
+      "title":"Numerical Integration over Spheres and Balls in n-Dimensions;\nMultivariate Polar Coordinates"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"sspse",
+      "title":"Estimating Hidden Population Size using Respondent Driven\nSampling Data"
+   },
+   {
+      "date":"2017-09-16",
+      "name":"wildcard",
+      "title":"Templates for Data Frames"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"ASIP",
+      "title":"Automated Satellite Image Processing"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"AurieLSHGaussian",
+      "title":"Creates a Neighbourhood Using Locality Sensitive Hashing for\nGaussian Projections"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"bmlm",
+      "title":"Bayesian Multilevel Mediation"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"canvasXpress",
+      "title":"Visualization Package for CanvasXpress in R"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"CATTexact",
+      "title":"Computation of the p-Value for the Exact Conditional\nCochran-Armitage Trend Test"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"DoE.wrapper",
+      "title":"Wrapper Package for Design of Experiments Functionality"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"DPpackage",
+      "title":"Bayesian Nonparametric Modeling in R"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"effects",
+      "title":"Effect Displays for Linear, Generalized Linear, and Other Models"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"EWGoF",
+      "title":"Goodness-of-Fit Tests for the Exponential and Two-Parameter\nWeibull Distributions"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"fastcox",
+      "title":"Lasso and Elastic-Net Penalized Cox's Regression in High\nDimensions Models using the Cocktail Algorithm"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"fastrtext",
+      "title":"'fastText' Wrapper for Text Classification and Word\nRepresentation"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"gdm",
+      "title":"Generalized Dissimilarity Modeling"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"ggjoy",
+      "title":"Joyplots in 'ggplot2'"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"gglasso",
+      "title":"Group Lasso Penalized Learning Using a Unified BMD Algorithm"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"ggridges",
+      "title":"Ridgeline Plots in 'ggplot2'"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"Gmedian",
+      "title":"Geometric Median, k-Median Clustering and Robust Median PCA"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"gradientPickerD3",
+      "title":"Interactive Color Gradient Picker Using 'htmlwidgets' and the\nModified JS Script 'jquery-gradient-picker'"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"heemod",
+      "title":"Markov Models for Health Economic Evaluations"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"heplots",
+      "title":"Visualizing Hypothesis Tests in Multivariate Linear Models"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"hmi",
+      "title":"Hierarchical Multiple Imputation"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"jmv",
+      "title":"The 'jamovi' Analyses"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"jtools",
+      "title":"Analysis and Presentation of Social Scientific Data"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"kableExtra",
+      "title":"Construct Complex Table with 'kable' and Pipe Syntax"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"lawn",
+      "title":"Client for 'Turfjs' for 'Geospatial' Analysis"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"lime",
+      "title":"Local Interpretable Model-Agnostic Explanations"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"linemap",
+      "title":"Line Maps"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"lingtypology",
+      "title":"Linguistic Typology and Mapping"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"liureg",
+      "title":"Liu Regression with Liu Biasing Parameters and Statistics"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"medflex",
+      "title":"Flexible Mediation Analysis Using Natural Effect Models"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"MFT",
+      "title":"The Multiple Filter Test for Change Point Detection"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"mschart",
+      "title":"Chart Generation for 'Microsoft Word' and 'Microsoft PowerPoint'\nDocuments"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"rgdal",
+      "title":"Bindings for the Geospatial Data Abstraction Library"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"SCORPIUS",
+      "title":"Inferring Developmental Chronologies from Single-Cell RNA\nSequencing Data"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"sitar",
+      "title":"Super Imposition by Translation and Rotation Growth Curve\nAnalysis"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"slickR",
+      "title":"Create Interactive Carousels with the JavaScript 'Slick' Library"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"spmoran",
+      "title":"Moran's Eigenvector-Based Spatial Regression Models"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"SqlRender",
+      "title":"Rendering Parameterized SQL and Translation to Dialects"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"timetools",
+      "title":"Seasonal/Sequential (Instants/Durations, Even or not) Time\nSeries"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"utilsIPEA",
+      "title":"IPEA Common Functions"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"veccompare",
+      "title":"Perform Set Operations on Vectors, Automatically Generating All\nn-Wise Comparisons, and Create Markdown Output"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"websearchr",
+      "title":"Access Domains and Search Popular Websites"
+   },
+   {
+      "date":"2017-09-15",
+      "name":"xtensor",
+      "title":"Headers for the 'xtensor' Library"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"adiv",
+      "title":"Analysis of Diversity"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"adwave",
+      "title":"Wavelet Analysis of Genomic Data from Admixed Populations"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"alineR",
+      "title":"Alignment of Phonetic Sequences Using the 'ALINE' Algorithm"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"anomalyDetection",
+      "title":"Implementation of Augmented Network Log Anomaly Detection\nProcedures"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"ASMap",
+      "title":"Linkage Map Construction using the MSTmap Algorithm"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"bibliometrix",
+      "title":"An R-Tool for Comprehensive Science Mapping Analysis"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"bizdays",
+      "title":"Business Days Calculations and Utilities"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"Blaunet",
+      "title":"Calculate and Analyze Blau Status for (Covert) Organizations"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"CausalImpact",
+      "title":"Inferring Causal Effects using Bayesian Structural Time-Series\nModels"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"causalMGM",
+      "title":"Causal Learning of Mixed Graphical Models"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"elastic",
+      "title":"General Purpose Interface to 'Elasticsearch'"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"energy",
+      "title":"E-Statistics: Multivariate Inference via the Energy of Data"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"eVenn",
+      "title":"A Powerful Tool to Quickly Compare Huge Lists and Draw Venn\nDiagrams"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"GCalignR",
+      "title":"Simple Peak Alignment for Gas-Chromatography Data"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"GetTDData",
+      "title":"Get Data for Brazilian Bonds (Tesouro Direto)"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"glassdoor",
+      "title":"Interface to 'Glassdoor' API"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"joineR",
+      "title":"Joint Modelling of Repeated Measurements and Time-to-Event Data"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"MAMS",
+      "title":"Designing Multi-Arm Multi-Stage Studies"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"mkin",
+      "title":"Kinetic Evaluation of Chemical Degradation Data"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"mmand",
+      "title":"Mathematical Morphology in Any Number of Dimensions"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"MSGARCH",
+      "title":"Markov-Switching GARCH Models"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"nprobust",
+      "title":"Nonparametric Robust Estimation and Inference Methods using\nLocal Polynomial Regression and Kernel Density Estimation"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"PakPC2017",
+      "title":"Pakistan Population Census 2017"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"perccalc",
+      "title":"Estimate Percentiles from an Ordered Categorical Variable"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"plantecophys",
+      "title":"Modelling and Analysis of Leaf Gas Exchange Data"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"plsgenomics",
+      "title":"PLS Analyses for Genomics"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"repo",
+      "title":"A Data-Centered Data Flow Manager"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"rfUtilities",
+      "title":"Random Forests Model Selection and Performance Evaluation"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"RNifti",
+      "title":"Fast R and C++ Access to NIfTI Images"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"rpgm",
+      "title":"Fast Simulation of Normal/Exponential Random Variables and\nStochastic Differential Equations / Poisson Processes"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"RSA",
+      "title":"Response Surface Analysis"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"smoothAPC",
+      "title":"Smoothing of Two-Dimensional Demographic Data, Optionally Taking\ninto Account Period and Cohort Effects"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"spatstat.data",
+      "title":"Datasets for 'spatstat'"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"spectrolab",
+      "title":"Class and Methods for Hyperspectral Data"
+   },
+   {
+      "date":"2017-09-14",
+      "name":"TR8",
+      "title":"A Tool for Downloading Functional Traits Data for Plant Species"
+   }
+]
