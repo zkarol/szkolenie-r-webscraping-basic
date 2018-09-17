@@ -1,13 +1,13 @@
 library(rvest)
-library(stringi)
-
-#EX: Wczytaj stronę:
 
 link <- "http://www.filmweb.pl/film/W+starym%2C+dobrym+stylu-2017-744484"
-
 s <- html_session(link)
 
-#Q1: Pobierz średnia ocene
+# Q1: Pobierz średnia ocene z pliku js
+
+
+
+
 
 
 
@@ -48,13 +48,12 @@ s <- html_session(link)
 
 
 ###
-###
-###
+
+require(stringi)
 
 #Q1
 
-s %>% html_nodes("*") %>% .[stri_detect_fixed(.,"7,1")]
-
+s %>% html_nodes("*") %>% .[stri_detect_fixed(as.character(.),"7,1")]
 s %>% html_node("span[itemprop='ratingValue']") %>% html_text(trim = TRUE)
 
 

@@ -40,3 +40,4 @@ rsconnect/
 prezentacja/pics/*
 prezentacja/data/*
 prezentacja/web_scraping.Rmd
+.Rproj.user
